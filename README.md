@@ -3,5 +3,6 @@ This repository contains the code used for the research paper Increased Performa
 
 ## Repository Structure
 The repository contains the following folders.
-
+- `Data exploration.py` contains the code used for the descriptive statistics of the raw Criteo data set.
+-  
 
