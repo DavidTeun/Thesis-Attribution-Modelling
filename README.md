@@ -5,4 +5,6 @@ This repository contains the code used for the research paper Increased Performa
 The repository contains the following folders.
 - `Data exploration.py` contains the code used for the descriptive statistics of the raw Criteo data set.
 -  `Data Pre-processing` contains the code used for the pre-processing steps described in the paper. There are two files, `Preprocessing - LR & SVM.py` and `Preprocessing - LSTM`. The distinction is that the LSTM file makes use of padding, whereas the LR and SVM file does not.
+-  `Models` contains the code for the ensembles and cascades that are proposed in the the research paper. For the logistic regression and support vector machine, there are variants found using sequence aggregation. These variants are indicated with a seq. suffix.
+-  `Results` contains the code used to generate the plots and tables used in the paper.
 
