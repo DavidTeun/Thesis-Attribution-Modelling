@@ -4,5 +4,5 @@ This repository contains the code used for the research paper Increased Performa
 ## Repository Structure
 The repository contains the following folders.
 - `Data exploration.py` contains the code used for the descriptive statistics of the raw Criteo data set.
--  
+-  `Data Pre-processing` contains the code used for the pre-processing steps described in the paper. There are two files, `Preprocessing - LR & SVM.py` and `Preprocessing - LSTM`. The distinction is that the LSTM file makes use of padding, whereas the LR and SVM file does not.
 
