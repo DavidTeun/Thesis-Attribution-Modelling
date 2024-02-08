@@ -8,3 +8,8 @@ The repository contains the following folders.
 -  `Models` contains the code for the ensembles and cascades that are proposed in the the research paper. For the logistic regression and support vector machine, there are variants found using sequence aggregation. These variants are indicated with a seq. suffix.
 -  `Results` contains the code used to generate the plots and tables used in the paper.
 
+## Usage
+
+
+## Additional Notes & References
+The data set used in this research paper and throughout the code found in this repository is provided by the advertisement company Criteo and originally accompanied the paper `Diemert, E., Meynet, J., Galland, P., & Lefortier, D. (2017). Attribution modeling increases efficiency of bidding in display advertising. In Proceedings of the ADKDD'17 (pp. 1-6)`.
